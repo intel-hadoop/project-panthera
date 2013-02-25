@@ -10,6 +10,6 @@ We have worked closely with many enterprise users over the past few years to enh
 
 The objective of Project Panthera is to collaborate with the larger Hadoop community in enhancing the SQL support of the platform for a broader set of use cases.  We are building these new capabilities on top of the Hadoop stack, and contributing necessary improvements of the underlying stack back to the existing Apache Hadoop projects. Our initial goals are:
 
-* An analytical SQL engine (ASE) for Hadoop (<https://github.com/intel-hadoop/hive-0.9-panthera>), which provides full SQL support for Hadoop-based OLAP applications and currently uses Hive as the execution backend
+* An analytical SQL engine (ASE) for Hadoop (<https://github.com/intel-hadoop/project-panthera-ase>), which provides full SQL support for Hadoop-based OLAP applications and currently uses Hive as the execution backend
 
-*	Document-oriented table (DOT) for HBase (<https://github.com/intel-hadoop/hbase-0.94-panthera>), which provides an efficient storage engine for relational SQL query with high-update rate and document semantics, and is currently implemented as an HBase co-processor application
+*	Document-oriented table (DOT) for HBase (<https://github.com/intel-hadoop/project-panthera-dot>), which provides an efficient storage engine for relational SQL query with high-update rate and document semantics, and is currently implemented as an HBase co-processor application
