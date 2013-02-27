@@ -1,6 +1,0 @@
-[submodule "hive"]
-	path = hive
-	url = git@github.com:intel-hadoop/hive-0.9-panthera.git
-[submodule "hbase"]
-	path = hbase
-	url = git@github.com:intel-hadoop/hbase-0.94-panthera.git
